@@ -1,6 +1,6 @@
 ## pipex
 
-An implementation of the pipe function in shell. 
+An implementation of the pipe function from shell. 
 
 #### use
 
